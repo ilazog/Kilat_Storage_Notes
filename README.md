@@ -11,17 +11,18 @@ Dengan demikian, kami menyarankan kepada Anda untuk segera melakukan migrasi dat
 
 Sebelum melakukan migrasi data, terlebih dahulu Anda perlu melakukan order layanan Kilat Storage baru melalui portal client area CloudKilat akun Anda dengan langkah-langkah, sebagai berikut:
 
-* Masuk ke https://portal.cloudkilat.com/clientarea
-* Pilih menu Order
-* Pada bagian informasi Choose Package , pilih Kilat Storage
-* Sesuaikan kapasitas penyimpanan layanan Kilat Storage baru yang akan di-order dengan kapasitas penyimpanan dari layanan Kilat Storage Classic Anda saat ini (Misal: Kilat Storage 25 GB )
-* Klik Order Now
-* Pilih Billing Cycle yang digunakan (Misal: Rp30,000 Monthly )
-* Klik Continue
-* Klik Checkout
-* Lengkapi biodata dan pilih metode pembayaran yang digunakan (Misal: Bank Transfer )
-* Centang I have read and agree to the Terms of Service
-* Klik Complete Order
+1. Login ke **https://portal.cloudkilat.com/clientarea**
+2. Pilih menu **Order**
+3. Pada bagian informasi **Choose Package**
+4. Pilih **Kilat Storage**
+4. Sesuaikan kapasitas penyimpanan layanan Kilat Storage baru yang akan di-order dengan kapasitas penyimpanan dari layanan Kilat Storage Classic Anda saat ini
+5. Klik **Order Now**
+6. Pilih **Billing Cycle** yang digunakan (Misal: **Rp30,000 Monthly**)
+7. Klik **Continue**
+8. Klik **Checkout**
+9. Lengkapi biodata dan pilih metode pembayaran yang digunakan (Misal: **Bank Transfer**)
+10.Centang **I have read and agree to the Terms of Service**
+11.Klik **Complete Order**
 
 Kami informasikan juga kepada Anda, untuk Endpoint dari layanan Kilat Storage baru berbeda dengan layanan Kilat Storage Classic dan berikut adalah Endpoint untuk layanan Kilat Storage baru: s3-id-jkt-1.kilatstorage.id.
 
