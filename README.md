@@ -15,14 +15,16 @@ Sebelum melakukan migrasi data, terlebih dahulu Anda perlu melakukan order layan
 2. Pilih menu **Order**
 3. Pada bagian informasi **Choose Package**
 4. Pilih **Kilat Storage**
-4. Sesuaikan kapasitas penyimpanan layanan Kilat Storage baru yang akan di-order dengan kapasitas penyimpanan dari layanan Kilat Storage Classic Anda saat ini
-5. Klik **Order Now**
-6. Pilih **Billing Cycle** yang digunakan (Misal: **Monthly apabila ingin berlangganan satu bulan**)
-7. Klik **Continue**
-8. Klik **Checkout**
-9. Lengkapi biodata dan pilih metode pembayaran yang digunakan (Misal: **Bank Transfer**)
-10.Centang **I have read and agree to the Terms of Service**
-11.Klik **Complete Order**
+5. Sesuaikan kapasitas penyimpanan layanan Kilat Storage baru yang akan di-order dengan kapasitas penyimpanan dari layanan Kilat Storage Classic Anda saat ini
+6. Klik **Order Now**
+7. Pilih **Billing Cycle** yang digunakan (Misal: **Monthly apabila ingin berlangganan satu bulan**)
+8. Klik **Continue**
+9. Klik **Checkout**
+10. Lengkapi biodata dan pilih metode pembayaran yang digunakan (Misal: **Bank Transfer**)
+
+11.Centang **I have read and agree to the Terms of Service**.
+
+12.Klik **Complete Order**
 
 Kami informasikan juga kepada Anda, untuk Endpoint dari layanan Kilat Storage baru berbeda dengan layanan Kilat Storage Classic dan berikut adalah Endpoint untuk layanan Kilat Storage baru: ``s3-id-jkt-1.kilatstorage.id``.
 
