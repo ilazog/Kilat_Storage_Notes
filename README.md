@@ -17,17 +17,17 @@ Sebelum melakukan migrasi data, terlebih dahulu Anda perlu melakukan order layan
 4. Pilih **Kilat Storage**
 4. Sesuaikan kapasitas penyimpanan layanan Kilat Storage baru yang akan di-order dengan kapasitas penyimpanan dari layanan Kilat Storage Classic Anda saat ini
 5. Klik **Order Now**
-6. Pilih **Billing Cycle** yang digunakan (Misal: **Rp30,000 Monthly**)
+6. Pilih **Billing Cycle** yang digunakan (Misal: **Monthly apabila ingin berlangganan satu bulan**)
 7. Klik **Continue**
 8. Klik **Checkout**
 9. Lengkapi biodata dan pilih metode pembayaran yang digunakan (Misal: **Bank Transfer**)
 10.Centang **I have read and agree to the Terms of Service**
 11.Klik **Complete Order**
 
-Kami informasikan juga kepada Anda, untuk Endpoint dari layanan Kilat Storage baru berbeda dengan layanan Kilat Storage Classic dan berikut adalah Endpoint untuk layanan Kilat Storage baru: s3-id-jkt-1.kilatstorage.id.
+Kami informasikan juga kepada Anda, untuk Endpoint dari layanan Kilat Storage baru berbeda dengan layanan Kilat Storage Classic dan berikut adalah Endpoint untuk layanan Kilat Storage baru: ``s3-id-jkt-1.kilatstorage.id``.
 
 Nantinya setelah layanan Kilat Storage baru yang telah Anda order aktif, kami dapat membantu Anda untuk melakukan migrasi data layanan Kilat Storage Classic Anda ke layanan Kilat Storage baru.
 
-Untuk bantuan migrasi data yang kami berikan tidak kenakan biaya apapun, namun sebelum kami melakukan proses migrasi data, silakan untuk melakukan konfirmasi terlebih dahulu kepada kami melalui email atau tiket yang ditujukan ke Departemen Support ( support@cloudkilat.com ), agar kami dapat melakukan peninjauan terlebih dahulu.
+Untuk bantuan migrasi data yang kami berikan tidak kenakan biaya apapun, namun sebelum kami melakukan proses migrasi data, silakan untuk melakukan konfirmasi terlebih dahulu kepada kami melalui email atau tiket yang ditujukan ke Departemen Support ( ``support@cloudkilat.com`` ), agar kami dapat melakukan peninjauan terlebih dahulu.
 
 Demikian informasi yang dapat kami sampaikan kepada Anda dan tiket ini akan kami tutup. Silakan untuk menghubungi kami kembali, apabila masih terjadi masalah atau hal lain yang dapat kami bantu dengan membuka tiket baru dengan subjek yang relevan.
